@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketvyadav&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="180" style="margin-top:30px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
+<img align="right" height="180" style="margin-top:32px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
