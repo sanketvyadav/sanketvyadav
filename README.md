@@ -52,3 +52,9 @@
 <a href="https://www.facebook.com/prathamesh.vattamwar.7/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  /></a>
 <a href="https://www.youtube.com/@WebDeveloperInsights"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  /></a>
 </div>
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=prathameshvattamwar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
