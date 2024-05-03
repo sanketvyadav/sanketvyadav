@@ -32,10 +32,11 @@
 </div>
 
 <!-- Coding Img -->
-<img align="center" height="180" style="margin-top:32px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
+
 <div align="center">
 <img height="180" style="margin-top:30px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
 </div>
+<br><br>
 
 
 
