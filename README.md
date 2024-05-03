@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I'm Sanket Yadav, a Software Developer from Pune </h2>
 
+<h3>My name is Sanket Yadav and I'm a software developer. I'm from Pune</h3>
+
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 <br>
