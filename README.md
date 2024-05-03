@@ -52,6 +52,11 @@
 <br>
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sanketvyadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
 
 <div align="left">
   <img src="https://img.shields.io/github/stars/sanketvyadav?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
@@ -67,6 +72,4 @@
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanketvyadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
