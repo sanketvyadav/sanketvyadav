@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sanket Yadav, a Software Developer from Pune </h2>
+<h2 align="center">Hi 👋! I'm Sanket Yadav, a Software Developer from Pune </h2>
 
 <h3>My name is Sanket Yadav and I'm a software developer. I'm from Pune</h3>
 
