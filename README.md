@@ -18,24 +18,6 @@
 </div>
 <br><br>
 
-
-
-
-<!-- language graph  -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketvyadav&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150"           
-       alt="languages graph"  />
-  <img height="180" style="margin-top:30px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
-</div>
-
-<br><br>
-
-<!-- streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanketvyadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-<br><br>
-
 <!-- Language -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -58,6 +40,24 @@
 </div>
 
 <br><br>
+
+
+<!-- language graph and animation -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketvyadav&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150"           
+       alt="languages graph"  />
+  <img height="180" style="margin-top:30px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
+</div>
+
+<br><br>
+
+<!-- streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sanketvyadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+<br><br>
+
+
 
 
 <!-- Total profile views -->
