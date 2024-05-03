@@ -8,19 +8,22 @@
 <br><br>
 
 
-<!--  -->
+<!-- language graph  -->
 <div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketvyadav&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150"           
        alt="languages graph"  />
   <img height="180" style="margin-top:30px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
 </div>
 
-<!-- Coding Img -->
-
-
 <br><br>
 
+<!-- streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sanketvyadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+<br><br>
 
+<!-- -->
 <div align="left">
   <img src="https://img.shields.io/github/stars/sanketvyadav?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
   <img src="https://img.shields.io/github/followers/sanketvyadav?label=Followers&style=for-the-badge" height="35" alt="followers"  />
@@ -56,11 +59,7 @@
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 <br><br>
 
-<!-- streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanketvyadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-<br><br>
+
 
 
 <!-- Social site -->
