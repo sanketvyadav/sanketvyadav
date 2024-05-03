@@ -5,6 +5,8 @@
 <a href="www.linkedin.com/in/sanket-yadav-68a596272"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
 <a href="https://twitter.com/prathameshv24"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /></a>
 <a href="mailto:ysanket30@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /></a>
+  <!-- https://mail.google.com/mail/u/0/?ogbl#inbox -->
+  
 <a href="https://www.instagram.com/sanky._.yadav/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  /></a>
 <a href="https://www.facebook.com/prathamesh.vattamwar.7/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  /></a>
 </div>
