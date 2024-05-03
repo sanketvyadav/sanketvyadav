@@ -27,13 +27,20 @@
 </div>
 
 <!--  -->
+<div align="left">
+  <img src="https://img.shields.io/github/stars/sanketvyadav?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
+  <img src="https://img.shields.io/github/followers/sanketvyadav?label=Followers&style=for-the-badge" height="35" alt="followers"  />
+  <img src="https://img.shields.io/github/last-commit/sanketvyadav/sanketvyadav?label=Last%20Commit&style=for-the-badge" height="35" alt="last commit"/>
+</div>
+
+<!--  -->
 <div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketvyadav&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150"           
        alt="languages graph"  />
   <img height="180" style="margin-top:30px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
 </div>
 
-<!-- Coding Img -->
+
 
 
 <br><br>
@@ -58,11 +65,7 @@
 
 
 
-<div align="left">
-  <img src="https://img.shields.io/github/stars/sanketvyadav?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
-  <img src="https://img.shields.io/github/followers/sanketvyadav?label=Followers&style=for-the-badge" height="35" alt="followers"  />
-  <img src="https://img.shields.io/github/last-commit/sanketvyadav/sanketvyadav?label=Last%20Commit&style=for-the-badge" height="35" alt="last commit"/>
-</div>
+
 
 
 
