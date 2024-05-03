@@ -62,7 +62,7 @@
 
 <!-- Total profile views -->
 <div align="center">
-  <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
+  <a href="https://u8views.com/github/sanketvyadav"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
 <br clear="both">
 
