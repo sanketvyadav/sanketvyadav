@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋! I'm Sanket Yadav, a Software Developer from Pune </h1>
 
+<!-- Social site -->
+<div align="center">
+<a href="https://www.linkedin.com/in/prathamesh-vattamwar-483529227/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
+<a href="https://twitter.com/prathameshv24"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /></a>
+<a href="mailto:prathamesh.vattamwar24@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /></a>
+<a href="https://www.instagram.com/prathameshpv24/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  /></a>
+<a href="https://www.facebook.com/prathamesh.vattamwar.7/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  /></a>
+</div>
 
+<br><br>
+
+<!-- Portfolio -->
 <br clear="both">
 <div align="center">
   <a href="https://sanketvyadav.github.io/amr" target="_blank" class="button big" >Click here for my portfolio website</a>
@@ -24,7 +35,7 @@
 <br><br>
 
 <!-- -->
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/github/stars/sanketvyadav?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
   <img src="https://img.shields.io/github/followers/sanketvyadav?label=Followers&style=for-the-badge" height="35" alt="followers"  />
   <img src="https://img.shields.io/github/last-commit/sanketvyadav/sanketvyadav?label=Last%20Commit&style=for-the-badge" height="35" alt="last commit"/>
@@ -62,13 +73,4 @@
 
 
 
-<!-- Social site -->
-<div align="center">
-<a href="https://www.linkedin.com/in/prathamesh-vattamwar-483529227/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
-<a href="https://twitter.com/prathameshv24"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /></a>
-<a href="mailto:prathamesh.vattamwar24@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /></a>
-<a href="https://www.instagram.com/prathameshpv24/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  /></a>
-<a href="https://www.facebook.com/prathamesh.vattamwar.7/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  /></a>
-</div>
 
-<br>
