@@ -12,15 +12,15 @@
 <br><br>
 
 <!--  -->
-<div align="left" >
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketvyadav&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
-<!--  -->
 
-<img align="right" height="180" style="margin-top:32px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
+<!-- Coding Img -->
+<img align="center" height="180" style="margin-top:32px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
 
-<!--  -->
-<div align="left">
+<!-- Language -->
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -34,7 +34,7 @@
   <img src="https://imgs.search.brave.com/W9CbFyxwjuZCstu49xt6tccC5kk1TtWTumoZ_-X-XRU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy90YWlsd2luZC1j/c3MtMi5zdmc.svg" height="28" alt="tailwind logo"  />
 </div>
 
-<!--  -->
+<!-- Social site -->
 <div align="center">
 <a href="https://www.linkedin.com/in/prathamesh-vattamwar-483529227/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
 <a href="https://twitter.com/prathameshv24"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /></a>
@@ -44,10 +44,6 @@
 </div>
 
 <br>
-
-
-
-
 
 
 
