@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! I'm Sanket Yadav, a Software Developer from Pune </h2>
 
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
+
+
 <div align="left" >
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=prathameshvattamwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketvyadav&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
