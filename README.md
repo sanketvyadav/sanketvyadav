@@ -27,14 +27,15 @@
 </div>
 
 <!--  -->
-<div align="center" >
+<div  >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketvyadav&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img height="180" style="margin-top:30px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
 </div>
 
 <!-- Coding Img -->
 
 <div align="center">
-<img height="180" style="margin-top:30px; " src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
+
 </div>
 <br><br>
 
