@@ -59,6 +59,13 @@
 
 <br><br>
 
+
+<!-- Total profile views -->
+<div align="center">
+  <a href="https://u8views.com/github/prathameshvattamwar"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
+</div>
+<br clear="both">
+
 <!--followers -->
 <div align="center">
   <img src="https://img.shields.io/github/stars/sanketvyadav?label=Total%20Stars&style=for-the-badge" height="35" alt="stars"  />
