@@ -7,13 +7,13 @@
 
 <br clear="both">
 <div align="center">
-  <a href="https://prathameshvattamwar.github.io/portfolio" target="_blank" class="button big" >Click here for my portfolio website</a>
+  <a href="https://sanketvyadav.github.io/amr" target="_blank" class="button big" >Click here for my portfolio website</a>
 </div>
 <br><br>
 
-<!-- Total profile views -->
+<!--  -->
 
-<br>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/prathamesh-vattamwar-483529227/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
 <a href="https://twitter.com/prathameshv24"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /></a>
