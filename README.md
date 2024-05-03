@@ -14,7 +14,7 @@
 
 <!-- Portfolio -->
 <br clear="both">
-<div align="center">
+<div align="center" style="text-decoration:none;">
   <a href="https://sanketvyadav.github.io/amr" target="_blank" class="button big" >Click here for my portfolio website</a>
 </div>
 <br><br>
