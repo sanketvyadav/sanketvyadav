@@ -3,6 +3,7 @@
 <!-- Social site -->
 <!-- https://mail.google.com/mail/u/0/?ogbl#inbox -->
 <div align="center">
+<a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
 <a href="www.linkedin.com/in/sanket-yadav-68a596272"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
 <a href="https://twitter.com/Sanket_7"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /></a>
 <a href="mailto:ysanket30@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /></a>
