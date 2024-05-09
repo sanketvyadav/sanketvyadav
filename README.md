@@ -122,7 +122,7 @@
 <!-- Total profile views -->
 <div align="center">
   <a href="https://u8views.com/github/sanketvyadav"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
-    <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120" />
+   
 </div>
 <br clear="both">
 
