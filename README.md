@@ -43,15 +43,7 @@
 <div align="center" >
   <a href="https://sanketvyadav.github.io/amr" target="_blank" class="button big" >Click here for my portfolio website</a>
 </div>
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-
+<br><br>
 
 
 
@@ -116,11 +108,15 @@
 <!-- streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sanketvyadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-
 </div>
 <br><br>
 
-
+<!-- Fire  -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
 
 <!-- Total profile views -->
