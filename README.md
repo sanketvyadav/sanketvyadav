@@ -41,7 +41,7 @@
 <!-- Portfolio -->
 <br clear="both">
 <div align="center" >
-  <a href="https://sanketvyadav.github.io/amr" target="_blank" class="button big" >Click here for my portfolio website</a>
+<!--  <a href="https://sanketvyadav.github.io/amr" target="_blank" class="button big" >Click here for my portfolio website</a>  -->
 </div>
 <br><br>
 
